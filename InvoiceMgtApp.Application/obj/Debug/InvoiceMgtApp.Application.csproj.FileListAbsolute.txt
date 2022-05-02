@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Application\bin\Debug\InvoiceMgtApp.Application.dll
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Application\bin\Debug\InvoiceMgtApp.Application.pdb
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Application\obj\Debug\InvoiceMgtApp.Application.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Application\obj\Debug\InvoiceMgtApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Application\obj\Debug\InvoiceMgtApp.Application.dll
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Application\obj\Debug\InvoiceMgtApp.Application.pdb

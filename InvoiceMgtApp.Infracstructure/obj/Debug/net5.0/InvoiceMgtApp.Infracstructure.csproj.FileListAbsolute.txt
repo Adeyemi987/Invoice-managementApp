@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\InvoiceMgtApp.Infracstructure.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\InvoiceMgtApp.Infracstructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\InvoiceMgtApp.Infracstructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\InvoiceMgtApp.Infracstructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\InvoiceMgtApp.Infracstructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\bin\Debug\net5.0\InvoiceMgtApp.Infracstructure.deps.json
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\bin\Debug\net5.0\InvoiceMgtApp.Infracstructure.runtimeconfig.json
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\bin\Debug\net5.0\InvoiceMgtApp.Infracstructure.runtimeconfig.dev.json
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\bin\Debug\net5.0\InvoiceMgtApp.Infracstructure.dll
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\bin\Debug\net5.0\ref\InvoiceMgtApp.Infracstructure.dll
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\bin\Debug\net5.0\InvoiceMgtApp.Infracstructure.pdb
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\InvoiceMgtApp.Infracstructure.dll
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\ref\InvoiceMgtApp.Infracstructure.dll
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\InvoiceMgtApp.Infracstructure.pdb
+C:\Users\hp\source\repos\InvoiceManagementApp\InvoiceMgtApp.Infracstructure\obj\Debug\net5.0\InvoiceMgtApp.Infracstructure.genruntimeconfig.cache
